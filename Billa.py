@@ -1,21 +1,4 @@
-Skip to content
-Bilal-khan-MPG
-/
-pagal
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-pagal/bxb.sh
-@Bilal-khan-MPG
-Bilal-khan-MPG Create bxb.sh
- 1 contributor
-491 lines (421 sloc)  25.4 KB
+
 # BILALL# SHAYAN# Thuglife# Shahbaz# Gamz#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
@@ -486,16 +469,4 @@ def action():
           
 if __name__ == '__main__':
     login()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
